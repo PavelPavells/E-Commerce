@@ -81,6 +81,7 @@
 							<td>
 							<select name="c_country">
 								<option>Select a Country</option>
+								<option>Russia</option>
 								<option>Afghanistan</option>
 								<option>India</option>
 								<option>Japan</option>
